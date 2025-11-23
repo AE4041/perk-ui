@@ -14,7 +14,6 @@ export function applyVariants<T extends object>(
 ) {
     const variantStyles: any[] = [];
 
-
     for (const key in config) {
         const value = (props as any)[key];
         if (value == null) continue;

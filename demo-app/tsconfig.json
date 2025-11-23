@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@perk-ui/components": [
+        "../perk-ui/components/src"
+      ]
+    }
+  },
+  "extends": "expo/tsconfig.base"
+}

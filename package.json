@@ -1,0 +1,8 @@
+{
+    "name": "perk-ui",
+    "private": true,
+    "workspaces": [
+        "ui",
+        "demo-app"
+    ]
+}
